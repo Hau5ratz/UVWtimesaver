@@ -29,4 +29,7 @@ There will be two stages of development a primary phase and a secondary phase:
 
 	https://developer.gocardless.com/api-reference/
 
-	
+
+Helpful guide for whatsapp:
+
+https://developers.facebook.com/docs/whatsapp/cloud-api/guides
